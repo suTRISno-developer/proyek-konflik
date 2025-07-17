@@ -1,3 +1,6 @@
 Baris awal login dan
 Baris tambahan dari User B
-Baris edit dari User 
+Baris edit dari User B
+Baris dari User A
+Baris awal login dan
+Baris tambahan dari User B
